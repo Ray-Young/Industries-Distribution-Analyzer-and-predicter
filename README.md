@@ -1,3 +1,12 @@
+Version 2 updates:
+
+1. Extend the functionalities based on version 1. Add Decision Tree, SVM, KNN recommendation algorithm based on Machine
+Learning Idea.
+2. Add new data set
+3. Add new report and explain the whole algorithm more detailedly
+
+Below is version one's description
+
 Abstraction:
 	The target of the project is help people, especially new graduates find
 	jobs best fit them. We use data science and machine learning techniques
